@@ -1,2 +1,2 @@
 # jukunet-mad
-JUlia package for KUramoto NETwork with Mixed ADaptation
+JUlia code for KUramoto NETwork with Mixed ADaptation
