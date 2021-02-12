@@ -6,8 +6,8 @@ where dynamically competitive nodes (***f***) coexist with dynamically interdepe
 
 ###### Network parameters:
 
-  - ***N***: network size
   - ***L***: number of layers
+  - ***N***: number of nodes within each layer
   - ***f***: size of the competitive nodes fraction such that ***0<f<1***
   - ***lambda***: coupling strength
   - ***omega***: natural frequencies of phase oscillators
