@@ -1,5 +1,4 @@
-# jukunet-mad
-## JUlia code for KUramoto NETwork with Mixed ADaptation
+## JUlia code for KUramoto NETwork with Mixed ADaptation (jukunet-mad)
 
 The code implements high-performance numerical simulation of mono- and multilayer Kuramoto models,
 where dynamically competitive nodes (***f***) coexist with dynamically interdependent (***1-f***) ones.
